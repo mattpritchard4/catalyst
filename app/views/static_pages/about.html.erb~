@@ -1,3 +1,4 @@
+<% provide(:title, "About") %>
 <h1>About</h1>
 <p>
     This application is designed to allow players and Flame-Tenders to create
@@ -8,3 +9,4 @@
     a pdf can be generated to print the catalyst mask and share digitally with
     others.
 </p>
+
